@@ -1,0 +1,31 @@
+# FoodShare - Reduce Food Waste
+
+[FoodShare](https://food-donation-amber.vercel.app/index.php)
+- [Login](https://food-donation-amber.vercel.app/login.php)
+- [Register](https://food-donation-amber.vercel.app/register.php)
+                    
+[Login](https://food-donation-amber.vercel.app/login.php)
+[Register](https://food-donation-amber.vercel.app/register.php)
+
+## Welcome Back
+Login to your FoodShare account
+Don't have an account? [Register here](https://food-donation-amber.vercel.app/register.php)
+
+### FoodShare
+Connecting food donors with charities to reduce waste and feed those in need. Join our mission today.
+
+#### Quick Links
+- [Home](https://food-donation-amber.vercel.app/index.php)
+                    
+- [About
+                            Us](https://food-donation-amber.vercel.app/about.php)
+- [Contact](https://food-donation-amber.vercel.app/contact.php)
+[Home](https://food-donation-amber.vercel.app/index.php)
+[About
+                            Us](https://food-donation-amber.vercel.app/about.php)
+[Contact](https://food-donation-amber.vercel.app/contact.php)
+
+#### Contact Us
+info@foodshare.com
++1 234 567 890
+© 2026 FoodShare. All rights reserved.
